@@ -1296,7 +1296,7 @@ function UILibrary.Main(PrjName,HideKey)
 				TextBox.Font = Enum.Font.SourceSans
 				TextBox.Text = ""
 				TextBox.TextColor3 = Color3.fromRGB(0, 0, 0)
-				TextBox.TextSize = 14.000
+				TextBox.TextSize = 28.00
 				TextBox.PlaceholderText = btnText
 				TextBox.TextColor3 = Color3.new(1,1,1)
 				UICorner.Parent = TextBox
